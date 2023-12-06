@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EASYPAY</string>
+
+    <string name="foreign_cardsVisa_and_Mastercard_remotely">Foreign cardsVisa and Mastercard remotely</string>
+
+    <string name="enter_your_authorization_number">Enter your login and password for authorization</string>
+    <string name="сontinue">Continue</string>
+    <string name="to_get_password_contact_your_supervisor">To get a password, contact support</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="your_login_is_too_small">Your login is too small</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="User_authorization_failed">User authorization failed</string>
+    <string name="amount">Amount:</string>
+    <string name="payment">Payment:</string>
+    <string name="created">Created:</string>
+    <string name="empty_respons">Empty</string>
+    <string name="retry_loading">Retry</string>
+    <string name="error_loading">Error loading data</string>
+</resources>

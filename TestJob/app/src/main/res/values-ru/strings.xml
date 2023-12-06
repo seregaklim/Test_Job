@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EASYPAY</string>
+<!--   ///sig-->
+    <string name="foreign_cardsVisa_and_Mastercard_remotely">Зарубежные картыVisa и Mastercard удаленно</string>
+    <string name="enter_your_authorization_number">Введите свой логин и пароль для авторизации</string>
+    <string name="сontinue">Продолжить</string>
+    <string name="to_get_password_contact_your_supervisor">Для получения пароля обратитесь в службу поддержки</string>
+    <string name="invalid_password">Неверный пароль</string>
+    <string name="your_login_is_too_small">Ваш логин слишком короткий</string>
+    <string name="enter_the_password">Введите пароль</string>
+    <string name="User_authorization_failed">Не удалось выполнить авторизацию пользователя</string>
+    <string name="amount">Cумма:</string>
+    <string name="payment">Платёж:</string>
+    <string name="created">Cозданный:</string>
+    <string name="empty_respons">Пусто</string>
+    <string name="error_loading">Не удалось загрузить данные</string>
+    <string name="retry_loading">Повторить</string>
+
+
+</resources>

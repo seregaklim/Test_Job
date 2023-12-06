@@ -1,0 +1,33 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/nav_graph"
+        app:startDestination="@id/fragmentLogotip">
+        <fragment
+            android:id="@+id/fragmentLogotip"
+            android:name="com.seregaklim.fragments.FragmentLogotip"
+            tools:layout="@layout/fragment_logotip"
+            android:label="FragmentLogotip" >
+            <action
+                android:id="@+id/action_fragmentLogotip_to_signFragment"
+                app:destination="@id/signFragment" />
+        </fragment>
+    <fragment
+        android:id="@+id/signFragment"
+        tools:layout="@layout/fragment_sign"
+        android:name="com.seregaklim.fragments.SignFragment"
+        android:label="SignFragment" >
+        <action
+            android:id="@+id/action_signFragment_to_fragmentResponse"
+            app:destination="@id/fragmentResponse" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentResponse"
+        tools:layout="@layout/fragment_response"
+        android:name="com.seregaklim.fragments.FragmentResponse"
+        android:label="FragmentResponse" >
+        <action
+            android:id="@+id/action_fragmentResponse_to_signFragment"
+            app:destination="@id/signFragment" />
+    </fragment>
+</navigation>

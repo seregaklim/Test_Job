@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkGray">#3C4049</color>
+    <color name="gray">#EAEEF4</color>
+    <color name="middle_Gray_Blue"> #B8C4DB</color>
+    <color name="dark">#2B2D35</color>
+    <color name="red">#F0303F</color>
+    <color name="green">#EEF9E8</color>
+    <color name="green_status">#59C617</color>
+    <color name="ligtn_gray_blue">#F4F6F9</color>
+    <color name="ser">#6A7B94</color>
+    <color name="ser_white"> #FFFFFF</color>
+    <color name="ligtn_Gra_Blue"> #F4F6F9</color>
+    <color name="bt"> #E5EAF2</color>
+</resources>
